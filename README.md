@@ -21,6 +21,7 @@ Além dos itens listados abaixo, fique a vontade para adicionar qualquer outra f
 ## Layout
 
 - Layout da aplicação: https://www.figma.com/file/ofetdcZKc2BTuWHkAXJOBv/Teste-Front-End?node-id=0%3A1    
+    - (É recomendável logar no Figma para poder ver com mais detalhes os estilos dos componentes)
     - Os links de navegação não precisam ter funcionalidade (só se você quiser colocar alguma coisa para a usabilidade ficar legal)
     - A tela inicial é a página de 'bem vindo'
     - O botão 'contratar serviços' leva a página de serviços
