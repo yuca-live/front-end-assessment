@@ -53,7 +53,7 @@ O nível de senioridade da vaga será levado em consideração nesta análise.
 - setup de testes
 
 ### Aplicação
-- escolha e domínio do framework utilizado (react/vue/swelte/angular/vanilajs)
+- escolha e domínio do framework utilizado (react/vue/swelte/angular/etc)
 - cobertura de testes
 - arquitetura 
 
