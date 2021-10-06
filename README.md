@@ -35,7 +35,15 @@ Acesse o [Figma](https://www.figma.com/file/ofetdcZKc2BTuWHkAXJOBv/Teste-Front-E
 <br><br>
 ## O que será analisado?
 
-A ideia do teste é termos uma noção do seu conhecimento, portanto o quão mais completa e "pronta pra produção" essa aplicação estiver, melhor. Qualquer framework frontend que já use no seu dia-a-dia pode ser usado.
+A ideia do teste é termos uma noção do seu conhecimento, portanto o quão mais completa e "pronta pra produção" a aplicação estiver, melhor. Qualquer framework frontend que já use no seu dia-a-dia pode ser usado.
+
+Como exemplo, na Yuca usamos: 
+- React como framework
+- StyledComponents pra gerência de estilos
+- Design System interno que provém os temas e tokens visuais
+- ApolloClient para fazer requisições e gerenciar estado local
+- Jest e Cypress para testes
+
 
 O nível de senioridade da vaga será levado em consideração nesta análise.
 
