@@ -2,25 +2,26 @@
 
 ## Descrição
 
-A Yuca oferece um pacote de serviços para que os yukers possam desfrutar da melhor experiência de viver em um Yuca.
+A Yuca oferece um pacote de serviços para que os yukers possam desfrutar da melhor experiência de viver em um Yuca!
 
 Seu desafio é criar uma aplicação que permita que o yuker adicione ou remova serviços contratados no seu pacote de moradia, para desfrutar de mais comodidades ou abrir mão de algumas que ele já não precisa.
 <br><br>
 
 ## Layout
 
-Acesse o [Figma](https://www.figma.com/file/ofetdcZKc2BTuWHkAXJOBv/Teste-Front-End?node-id=0%3A1)
+O design de nossas telas é feito no [Figma](https://www.figma.com/). Você poderá ver com mais detalhes as interfaces da tarefa acessando este [link](https://www.figma.com/file/ofetdcZKc2BTuWHkAXJOBv/Teste-Front-End?node-id=0%3A1)
 
 
 [![Layout Mobile](./mobile.png "Layout Mobile")](https://www.figma.com/file/ofetdcZKc2BTuWHkAXJOBv/Teste-Front-End?node-id=0%3A1)
 
-*É recomendável logar no Figma para poder ver com mais detalhes os estilos dos componentes*
+*É recomendável logar no Figma para poder ver as propriedades de estilo dos componentes*
 - A Tela inicial é a "Meu Yuca"  ("Bem-vindo, Bernardo")
 - Tela "Serviços" é uma subseção da tela "Meu Yuca"
-- Link "Minha Conta" não tem funcionalidade (só se você quiser colocar alguma coisa para a usabilidade ficar legal)
+- Link "Minha Conta" não tem funcionalidade (mas sinta-se à vontade para implementar algo se quiser deixar a usabilidade mais legal)
 <br><br>
 
 ## Critérios de aceite funcionais
+Estes são os requisitos básicos para sua aplicação ser considerada completa:
 - Criar estrutura responsiva
 - Criar tela inicial "Meu Yuca"
 - Criar tela "Serviços"
@@ -30,22 +31,21 @@ Acesse o [Figma](https://www.figma.com/file/ofetdcZKc2BTuWHkAXJOBv/Teste-Front-E
 
 <br>
 
-*(\*) mock server não persistirá os dados*
+*(\*) mock server não persiste os dados*
 
 <br><br>
 ## O que será analisado?
 
-A ideia do teste é termos uma noção do seu conhecimento, portanto o quão mais completa e "pronta pra produção" a aplicação estiver, melhor. Qualquer framework frontend que já use no seu dia-a-dia pode ser usado.
+A ideia desta tarefa é apenas analisar o seu conhecimento em desenvolvimento front-end, portanto, quanto mais completa e "pronta pra produção" a aplicação estiver, melhor! Você está livre para usar qualquer framework de sua escolha, pode ser aquele que você já usa no seu dia a dia mesmo
 
-Como exemplo, na Yuca usamos: 
+Na Yuca, por exemplo, usamos: 
 - React como framework
 - StyledComponents pra gerência de estilos
 - Design System interno que provém os temas e tokens visuais
 - ApolloClient para fazer requisições e gerenciar estado local
 - Jest e Cypress para testes
 
-
-O nível de senioridade da vaga será levado em consideração nesta análise.
+Consideraremos seu nível e momento profissional para a análise desta tarefa. Logo, nossas expectativas estarão alinhadas com a vaga que você pretende ocupar. O trabalho de um júnior, por exemplo, não será avaliado sob as mesmas condições de um sênior, então suas limitações ou aptidões técnicas serão super respeitadas e levadas em consideração no cumprimento dos itens abaixo.
 
 ### Infraestrutura
 - setup de desenvolvimento
@@ -58,7 +58,7 @@ O nível de senioridade da vaga será levado em consideração nesta análise.
 - arquitetura 
 
 ### Layout
-- acuidade visual
+- precisão visual
 - responsividade
 - organização/modularização/componentização dos estilos, o que escolher usar
 
